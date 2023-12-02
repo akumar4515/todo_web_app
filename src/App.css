@@ -1,9 +1,5 @@
-.main{
-    display:flex;
- justify-content: space-around;
- padding-top: 10px;
-}
-.header{
+
+
+.container-fluid {
    text-align: center;
-   border-bottom:solid aqua 2px;
 }
