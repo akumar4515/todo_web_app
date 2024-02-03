@@ -1,7 +1,7 @@
 
 import UseStateapp from "./todo/app.js";
 
-import './app.css';
+import './App.css';
 function App() {
   return (
     <>
